@@ -1,4 +1,4 @@
-# [![Header](../danalchapman/assets/header.png "Header")]
+![Header](../danalchapman/assets/header.png)
 
 <!--
 **danalchapman/danalchapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
