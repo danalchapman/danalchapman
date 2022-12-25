@@ -1,7 +1,7 @@
 <h1 align="center">:sparkles: Hey Hi Hello! :sparkles:</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105478792/202238331-f9b21ac6-273f-4266-a6e4-9f047ee4dca1.png" alt="gh-header">
+  <img src="https://user-images.githubusercontent.com/105478792/209479438-f28cc19a-8dbe-40e4-bc0e-f45858ffbfe8.png" alt="gh-header">
 </p>
 
 <h2 align="center">Let's have a Coffee Chat :coffee:</h2>
