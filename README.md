@@ -49,9 +49,3 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge">
 </div>
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danalchapman&show_icons=true&theme=dracula" alt="danalchapman's GH stats">
-</div>
