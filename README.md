@@ -17,7 +17,7 @@
 <h3 align="center" >About Me</h3>
 
 <p align="center">
-  Hey! :wave: Name's Dana, I use They/Them and She/Her pronouns. I'm a Front-End Software Engineer, recently graduated from the Turing School of Software & Design's Front-End program. I have had a lifelong love of wanting to help others, from my BS in Psychology from Florida State University, to being the Community Outreach Developer at Mondo Cane Publishing, to participating and organizing countless charity and fundraising events through TTRPG streams since 2018. Everything I do, I want to do with kindness, compassion, and a drive to make life accessible in all formats. :hearts:
+  Hey! :wave: Name's Dana, I use They/Them and She/Her pronouns. I'm a Front-End Software Engineer, recently graduated from the Turing School of Software & Design's Front-End program and currently working as a Software Support Analyst at FORM. I have had a lifelong love of wanting to help others, from my BS in Psychology from Florida State University, to being the Community Outreach Developer at Mondo Cane Publishing, to participating and organizing countless charity and fundraising events through TTRPG streams since 2018. Everything I do, I want to do with kindness, compassion, and a drive to make life accessible in all formats. :hearts:
 </p>
 
 <hr />
